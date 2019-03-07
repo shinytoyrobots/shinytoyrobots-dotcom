@@ -38,12 +38,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+            Random thoughts on culture, entertainment, politics, and the world today. <a href="http://robin-cannon.com">robin-cannon.com</a> for my more professionally-focused writing.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
-              </a>
+                @shinytoyrobots
+              </a> on Twitter.
             </p>
           </div>
         )
