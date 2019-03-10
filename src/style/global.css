@@ -1,0 +1,7 @@
+a, a:visited {
+    color: cyan;
+}
+
+a:active, a:focus, a:hover {
+    color: pink;
+}
