@@ -19,6 +19,9 @@ exports.createPages = ({ graphql, actions }) => {
               }
               frontmatter {
                 title
+                description
+                tags
+                categories
               }
             }
           }
