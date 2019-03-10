@@ -16,7 +16,8 @@ class BlogPostTemplate extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title={post.frontmatter.title}
-          description={post.frontmatter.description || post.excerpt}
+          description={post.frontmatter.description || post.excerpt || 'no description'}
+          keywords={post.frontmatter.tags || ['some', 'random', 'keywords'] || []}
         />
         <h1>{post.frontmatter.title}</h1>
         <p
@@ -84,6 +85,8 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        tags
+        categories
       }
     }
   }
