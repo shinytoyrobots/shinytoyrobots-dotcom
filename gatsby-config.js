@@ -48,10 +48,13 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: 'gatsby-plugin-fathom',
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
+        // your Fathom server URL
+        trackingUrl: 'analytics.shinytoyrobots.com',
+        // unique site id (optional, required for Fathom v1.1.0+)
+        siteId: 'ENQDA'
+      }
     },
     `gatsby-plugin-feed`,
     {
