@@ -1,5 +1,5 @@
 a, a:visited {
-    background-image: none; // I dunno where this is being generated from default
+    background-image: none; /* I dunno where this is being generated from default */
     color: rgb(177,23,14);
     text-decoration: underline;
 }

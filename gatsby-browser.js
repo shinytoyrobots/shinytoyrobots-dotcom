@@ -1,6 +1,5 @@
 // custom typefaces
-import "typeface-work-sans"
-import "typeface-quattrocento-sans"
+import "typeface-lato"
 
 // stylesheets
 import "./src/style/global.css"

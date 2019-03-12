@@ -1,7 +1,7 @@
 import Typography from "typography"
-import fairyGatesTheme from "typography-theme-fairy-gates"
+import noriegaTheme from "typography-theme-noriega"
 
-fairyGatesTheme.overrideThemeStyles = () => {
+noriegaTheme.overrideThemeStyles = () => {
   return {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
@@ -9,9 +9,9 @@ fairyGatesTheme.overrideThemeStyles = () => {
   }
 }
 
-delete fairyGatesTheme.googleFonts
+delete noriegaTheme.googleFonts
 
-const typography = new Typography(fairyGatesTheme)
+const typography = new Typography(noriegaTheme)
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {
