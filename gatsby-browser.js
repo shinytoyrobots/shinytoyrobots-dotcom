@@ -1,6 +1,5 @@
 // custom typefaces
-import "typeface-montserrat"
-import "typeface-merriweather"
+import "typeface-lato"
 
 // stylesheets
 import "./src/style/global.css"
