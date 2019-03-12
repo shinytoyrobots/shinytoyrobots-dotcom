@@ -9,7 +9,7 @@ const Categories = ({ pageContext, data }) => {
   const { edges, totalCount } = data.allMarkdownRemark
   const categoryHeader = `${totalCount} post${
     totalCount === 1 ? "" : "s"
-  } tagged with "${category}"`
+  } in the "${category}" category`
 
   return (
     <div>
