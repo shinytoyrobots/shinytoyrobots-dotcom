@@ -2,7 +2,7 @@
 title: The Bachelor - WTF is this Medieval Bullshit?
 date: "2019-03-12"
 description: My wife asked me to hate watch The Bachelor with her. It's a truly heinous show, based on a heinous premise, and here are some thoughts as we reach the end of season 23.
-tags: [bachelor, hatewatch, tv, sexism]
+tags: [bachelor, hatewatch, tv, sexism, reality]
 categories: ["Entertainment"]
 ---
 
@@ -68,6 +68,6 @@ The man will refuse to take no for an answer from a woman who very clearly told 
 
 Which sounds about right for this genuinely heinous premise for a show. 23 fucking seasons...? 
 
-Check back to see if I can stand a hate watch of the actual finale finale next week.
+Check back to see if I can stand a hate watch of the actual finale finale.
 
 
