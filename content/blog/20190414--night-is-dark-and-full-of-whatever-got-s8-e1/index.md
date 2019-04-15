@@ -1,7 +1,7 @@
 ---
 title: For the Night is Dark, and Full of Whatevers - Game of Thrones, Season 8, Episode 1
 date: "2019-04-14"
-description: Live recap / 'hatewatch' of Game of Thrones, Season 8, Episode 1.
+description: Fighty pirate man avoids the friendzone! Dany goes wild with dragon punning! That awkward 'I burned your family alive' moment! Sansa is cooler than you!
 tags: [television, game of thrones, rants]
 categories: ["Entertainment", "Game of Thrones"]
 ---
