@@ -1,7 +1,7 @@
 ---
 title: For the Night is Dark, and Full of Whatevers - Game of Thrones, Season 8, Episode 1
 date: "2019-04-14"
-description: 
+description: Live recap / 'hatewatch' of Game of Thrones, Season 8, Episode 1.
 tags: [television, game of thrones, rants]
 categories: ["Entertainment", "Game of Thrones"]
 ---
