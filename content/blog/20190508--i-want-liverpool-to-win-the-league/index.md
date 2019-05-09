@@ -14,6 +14,10 @@ Liverpool are also going into the last game of the 2019 Premier League season ju
 
 But I'd still prefer them to win the league instead of Manchester City. And the reasons are very simple.
 
+## Liverpool FC's owners don't stone people to death.
+
+A little more specifically...
+
 - Liverpool FC's owners don't stone people to death for having an affair.
 - Liverpool FC's owners don't flog people for having an illegitimate pregnancy.
 - Liverpool FC's owners don't execute people for changing their mind about their religion.
