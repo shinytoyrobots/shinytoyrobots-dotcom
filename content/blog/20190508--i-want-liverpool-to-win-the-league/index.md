@@ -1,7 +1,7 @@
 ---
 title: Why I want Liverpool to win the Premier League
 date: "2019-05-08"
-description: I'm an Everton fan and I hate Liverpool. But just being Liverpool is nothing compared to Manchester City's existence as a vehicle to sportswash human rights abuse.
+description: I'm an Everton fan, I hate Liverpool. But being Liverpool is nothing compared to Manchester City's existence as a vehicle to sportswash human rights abuse.
 tags: [sport, soccer, politics]
 categories: ["Politics", "Sport"]
 ---
